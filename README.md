@@ -1,6 +1,3 @@
-Certainly! Below is the GitHub `README.md` file for the Git cheat sheet you provided. It includes an index at the beginning and properly formatted sections for each command category.
-
-```markdown
 # Git Cheat Sheet
 
 Welcome to the Git Cheat Sheet! This cheat sheet provides a comprehensive list of commonly used Git commands for various tasks.
